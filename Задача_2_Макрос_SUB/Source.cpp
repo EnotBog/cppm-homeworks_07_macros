@@ -1,4 +1,4 @@
-#include <cstdio>
+ο»Ώ#include <cstdio>
 #include <iostream>
 #include <string>
 #include <stdlib.h>
@@ -7,7 +7,7 @@
 
 #define SUB(a,b) ((a)-(b))
 #ifndef SUB
-#error SUB νεξοπεδελεν
+#error SUB Π½ΠµΠΎΠΏΡ€ΠµΠ΄ΠµΠ»ΠµΠ½
 #endif // !SUB
 
 
